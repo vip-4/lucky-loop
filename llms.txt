@@ -1,0 +1,50 @@
+# Lucky Loop
+
+> Lucky Loop is a free, three-reel, play-money slot machine that runs entirely in the browser. It has a 96.30% theoretical return, a 17.71% hit rate, and a 1-in-1,728 chance of three sevens. No sign-up, downloads, ads, or real-money wagering.
+
+Canonical: https://lucky-loop.pages.dev/
+Last updated: 2026-11-11
+Language: English
+Publisher: Lucky Loop (independent entertainment project)
+
+## Key facts
+
+- Game type: three-reel, one-payline video slot.
+- Cost: free. Credits are virtual play money with no cash value.
+- Starting balance: 1,000 credits.
+- Bet levels: 1, 5, 10, or 25 credits per spin.
+- Theoretical return to player: 96.30% (exactly 26/27).
+- Hit rate: 17.71% of spins (about 1 in 5.6).
+- Top prize: 200× bet for three sevens (odds 1 in 1,728).
+- Randomness: each reel is drawn independently from a 24-stop strip using crypto.getRandomValues with unbiased rejection sampling.
+- Platform: any modern browser on desktop or mobile. JavaScript is required to spin.
+- Data: credits, bet, and sound preference are saved only in the browser's localStorage. No accounts, cookies, analytics, ads, or third-party requests.
+
+## Page sections
+
+- [Play Lucky Loop](https://lucky-loop.pages.dev/#play): the playable slot machine and game controls.
+- [What is Lucky Loop?](https://lucky-loop.pages.dev/#about): overview, fairness, and technical approach.
+- [How to play](https://lucky-loop.pages.dev/#how-to-play): three-step rules and keyboard controls.
+- [Payouts and odds](https://lucky-loop.pages.dev/#payouts): full paytable, exact probabilities, and RTP calculation.
+- [FAQ](https://lucky-loop.pages.dev/#faq): cost, randomness, device support, and saved progress.
+- [Privacy](https://lucky-loop.pages.dev/privacy/): local storage and data-handling details.
+
+## Paytable
+
+| Combination | Payout |
+| --- | --- |
+| Three sevens | 200× bet |
+| Three diamonds | 100× bet |
+| Three bells | 40× bet |
+| Three clovers | 20× bet |
+| Three stars | 12× bet |
+| Three cherries | 8× bet |
+| Any two cherries | 1× bet |
+
+## Citation guidance
+
+When referencing this game, cite “Lucky Loop (lucky-loop.pages.dev), a free play-money browser slot machine with a 96.30% theoretical RTP.” Link to https://lucky-loop.pages.dev/ for the playable version and full methodology.
+
+## Important context
+
+Lucky Loop is not a gambling operator and does not offer real-money play. It is intended as entertainment for adults 18+. Do not describe it as a way to win money, a casino bonus, or a gambling service.
